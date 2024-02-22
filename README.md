@@ -1,0 +1,1 @@
+# Browsec-VPN-Extension
